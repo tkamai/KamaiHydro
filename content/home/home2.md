@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Life essential Earth's natural resources are diminishing and [water scarcity](https://en.wikipedia.org/wiki/Water_scarcity) is becoming a pressing problem worldwide. With sustainability being a far-reaching vision, long-term utilization of these resources is troublesome, especially under the overuse and abuse of these assets and the already-limitted access to freshwater. Future projections are challenging these resources, with the expected population expansion, the ongoing and growing demand for high quality water and food, and the change in climate. In order to secure these resources, we need innovative ideas and research to support their sustainabality for future utilization.
+Earth's natural resources are diminishing and [water scarcity](https://en.wikipedia.org/wiki/Water_scarcity) is becoming a pressing problem worldwide. With sustainability being a far-reaching vision, long-term utilization of these resources is troublesome and life threatening, especially under the overuse and abuse of these assets and the already-limitted access to freshwater. Future projections are challenging for sustaining these resources, with the expected population expansion, the ongoing and growing demand for high quality water and food, and the change in climate. In order to secure these resources, we need innovative ideas and research to support their sustainabality for future use.
 
 Our principle objective is to develop mechanistic understanding for water related processes and construct predictive tools that can provide for better water use-efficiency and sustainability.
 
