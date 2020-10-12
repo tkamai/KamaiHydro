@@ -22,7 +22,7 @@ subtitle = "subsurface flow and transport in natural, urban, and agricultural sy
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "navy"
+  color = "LightBlue"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -36,7 +36,7 @@ subtitle = "subsurface flow and transport in natural, urban, and agricultural sy
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
  
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
