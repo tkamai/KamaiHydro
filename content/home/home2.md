@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Earth's natural resources are diminishing and water scarcity is becoming a pressing problem worlwide, threatning life with limitted access to these assets. These trends are projected to continue and accelerate by population expansion, ongoing and growing requirements for high quantities and quality of water and food, and climate change. In order to secure these resources, we need innovative ideas and research to support their sustainabality for future utilization.
+Earth's natural resources are diminishing and [water scarcity](https://en.wikipedia.org/wiki/Water_scarcity) is becoming a pressing problem worlwide. The limitted access to these assets is threatening life, as these trends are projected to continue and accelerate by population expansion, ongoing and growing requirements for high quantities and quality of water and food, and climate change. In order to secure these resources, we need innovative ideas and research to support their sustainabality for future utilization.
 
 Our principle objective is to develop mechanistic understanding for water related processes and construct predictive tools that can provide for better water use-efficiency and sustainability.
 
