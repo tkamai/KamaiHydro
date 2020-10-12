@@ -4,19 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "KamaiHydro"
+  name = "Home"
   url = ""
   weight = 10
 
 [[main]]
   name = "Courses"
   url = "courses/"
-  weight = 30
+  weight = 20
  
 [[main]]
   name = "Members"
   url = "members/"
-  weight = 40
+  weight = 30
 
 # [[main]]
 #   name = "Projects"
