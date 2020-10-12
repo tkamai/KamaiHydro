@@ -12,12 +12,12 @@
   name = "Courses"
   url = "courses/"
   weight = 20
-# 
-# [[main]]
-#   name = "Members"
-#   url = "members/"
-#   weight = 20
-# 
+ 
+[[main]]
+  name = "Members"
+  url = "members/"
+  weight = 30
+
 # [[main]]
 #   name = "Projects"
 #   url = "#projects"
