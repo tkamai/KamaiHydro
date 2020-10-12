@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 Tamir Kamai is a researcher in the Agricultural Research Organization (ARO) at the Volcani Center. His research is centered on processes related to subsurface water content and flow, and their coupling with solute transport and heat transfer. His principle research interest is in the understanding of these processes for efficient water use and sustainability. A major part of his work is dedicated to the development of the heat-pulse method and other technologies for soil in-situ water measurements. Most of his research combines experimental and theoretical methods using inverse modeling and parameter optimization, using a multiphysics approach seeking to understand the interactions and feedbacks between the different processes in the subsurface (e.g. infiltration, evaporation, uptake, and leaching).
