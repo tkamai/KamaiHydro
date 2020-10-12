@@ -9,10 +9,15 @@
   weight = 10
 
 [[main]]
-  name = "Members"
-  url = "members/"
+  name = "Courses"
+  url = "courses/"
   weight = 20
-
+# 
+# [[main]]
+#   name = "Members"
+#   url = "members/"
+#   weight = 20
+# 
 # [[main]]
 #   name = "Projects"
 #   url = "#projects"
