@@ -26,17 +26,25 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "website"
-    tag = "website"
-    
-  [[content.filter_button]]
-    name = "R"
-    tag = "R"
-    
-  [[content.filter_button]]
-    name = "Software"
-    tag = "software"
+    name = "Messurements"
+    tag = "measurements"
 
+  [[content.filter_button]]
+    name = "Modeling"
+    tag = "modeling"
+
+  [[content.filter_button]]
+    name = "Field"
+    tag = "field"
+
+  [[content.filter_button]]
+    name = "Irrigation"
+    tag = "Irrigation"
+    
+  [[content.filter_button]]
+    name = "Pressure wave"
+    tag = "pwave"
+    
   [[content.filter_button]]
     name = "Workshop"
     tag = "workshop"
@@ -44,14 +52,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Course"
     tag = "course"
-    
-  [[content.filter_button]]
-    name = "Book"
-    tag = "book"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
