@@ -1,5 +1,5 @@
 ---
-title: Internal Project
+title: Olive deficit irrigation
 summary: An example of using the in-built project page.
 tags:
 - Irrigation
