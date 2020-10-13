@@ -55,7 +55,7 @@ We attemt to conduct thorough reaserch with an holistic approach for understandi
 
 We aim for simplifying our studies by concidering the major mechanisms that control the processes in hand and to those that have practical meaning and interests.
 
-Thus, or general research path includes:
+Thus, our general research path includes:
 - controlled experiments for producing unique data.
 - model development.
 - validation of the model/s with data.
