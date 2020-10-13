@@ -29,8 +29,8 @@
   weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "contact/"
+  name = "ARO"
+  url = "aro/"
   weight = 70
 
 [[main]]
