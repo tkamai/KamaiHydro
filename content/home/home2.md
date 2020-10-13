@@ -64,5 +64,5 @@ If your interested in graduate studies or in collaborations, please [contact us]
 
 Learn more about our [research](research/)
 
-Check out our [projects showcase](project/)
+Check out our [projects showcase](projects/)
 
