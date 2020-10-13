@@ -50,16 +50,16 @@ subtitle = ""
  css_class = ""
 +++
 
-Earth's natural resources are diminishing and [water scarcity](https://en.wikipedia.org/wiki/Water_scarcity) is becoming a pressing problem worldwide. Future projections are challenging for sustaining these resources, with the expected population expansion, the ongoing and growing demand for high quality water and food, and the change in climate. With sustainability being a far-reaching vision and the already-limitted access to freshwater, with overuse and abuse of water resources, there is pressing need for tools to cope with these issues. As part, we suggest addressing those through innovative ideas and research that can provide for fundumental understanding of these complex systems, as the basis for developing practical tools to cope with them, thereby allowing their sustainabality for future use.
+Earth's natural resources are diminishing and [water scarcity](https://en.wikipedia.org/wiki/Water_scarcity) is becoming a pressing problem worldwide. Future projections are challenging for sustaining these resources, with the expected population expansion, the ongoing and growing demand for high quality water and food, and the change in climate. With sustainability being a far-reaching vision and the already-limited access to freshwater, with overuse and abuse of water resources, there is pressing need for tools to cope with these issues. As part, we suggest addressing those through innovative ideas and research that can provide for fundamental understanding of these complex systems, as the basis for developing practical tools to cope with them, thereby allowing their sustainability for future use.
 
-Our principle objective is to develop mechanistic understanding for water related processes and construct predictive tools that can provide for better water use-efficiency and sustainability.
+Our principal objective is to develop mechanistic understanding for water related processes and construct predictive tools that can provide for better water use-efficiency and sustainability.
 
 We specialize in the physical and hydrological aspects of the subsurface for studying water flow and related transport processes in the [critical zone](https://en.wikipedia.org/wiki/Earth%27s_critical_zone).
 
 {{% callout note %}}
 We are always excited for new ideas and research collaborations.
 
-If your interested in graduate studies or in collaborations, please [contact us](#contact).
+If you are interested in graduate studies or in collaborations, please [contact us](#contact).
 {{% /callout %}}
 
 Learn more about our [research](research/)
