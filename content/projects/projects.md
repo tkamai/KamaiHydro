@@ -39,7 +39,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Irrigation"
-    tag = "Irrigation"
+    tag = "irrigation"
     
   [[content.filter_button]]
     name = "Pressure wave"
