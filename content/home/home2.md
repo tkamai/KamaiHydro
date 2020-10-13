@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Earth's natural resources are diminishing and [water scarcity](https://en.wikipedia.org/wiki/Water_scarcity) is becoming a pressing problem worldwide. With sustainability being a far-reaching vision, long-term utilization of these resources is troublesome and life threatening, especially under the overuse and abuse of these assets and the already-limitted access to freshwater. Future projections are challenging for sustaining these resources, with the expected population expansion, the ongoing and growing demand for high quality water and food, and the change in climate. In order to secure these resources, we need innovative ideas and research to support their sustainabality for future use.
+Earth's natural resources are diminishing and [water scarcity](https://en.wikipedia.org/wiki/Water_scarcity) is becoming a pressing problem worldwide. Future projections are challenging for sustaining these resources, with the expected population expansion, the ongoing and growing demand for high quality water and food, and the change in climate. With sustainability being a far-reaching vision and the already-limitted access to freshwater, with overuse and abuse of water resources, there is pressing need for tools to cope with these issues. As part, we suggest addressing those through innovative ideas and research that can provide for fundumental understanding of these complex systems, as the basis for developing practical tools to cope with them, thereby allowing their sustainabality for future use.
 
 Our principle objective is to develop mechanistic understanding for water related processes and construct predictive tools that can provide for better water use-efficiency and sustainability.
 
