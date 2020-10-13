@@ -62,7 +62,7 @@ We are always excited for new ideas and research collaborations.
 If your interested in graduate studies or in collaborations, please [contact us](#contact).
 {{% /callout %}}
 
-Learn more about our [research](reserch/)
+Learn more about our [research](research/)
 
 Check out our [projects showcase](project/)
 
