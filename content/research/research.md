@@ -51,16 +51,16 @@ subtitle = ""
 +++
 ## Foci
 
-We attemt to conduct thorough reaserch with an holistic approach for understanding complex system.
+We attemtp to conduct thorough research with an holistic approach for understanding complex systems.
 
-We aim for simplifying our studies by concidering the major mechanisms that control the processes in hand and to those that have practical meaning and interests.
+We aim for simplifying our studies by considering the major mechanisms that control the processes in hand and to those that have practical meaning and interests.
 
 Thus, our general research path includes:
 - controlled experiments for producing unique data.
 - model development.
 - validation of the model/s with data.
 - applications under field conditions.
-- furture predictions - with optimazations 
+- future predictions - with optimizations 
 
 We strive to gain knowledge and find solutions for improving water use efficiency and sustainability of water resources. Our research is aimed towards predicting water storage and consumption in natural, urban, and agricultural systems by combining fundamental understanding and applicative tools for quantifying water state and flow, their relations to temperature and coupling with heat transfer and transport phenomena of different constituents.
 
