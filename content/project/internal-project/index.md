@@ -3,7 +3,7 @@ title: Olive deficit irrigation
 summary: An example of using the in-built project page.
 tags:
 - irrigation
-date: "2016-04-27T00:00:00Z"
+date: 2016-04-27T00:00:00Z
 authors: ["Bla Blu"]
 
 # Optional external URL for project (replaces project detail page).
