@@ -59,10 +59,10 @@ We specialize in the physical and hydrological aspects of the subsurface for stu
 {{% callout note %}}
 We are always excited for new ideas and research collaborations.
 
-If your interested in graduate studies or in collaborations, please [contact us](contact/).
+If your interested in graduate studies or in collaborations, please [contact us](#contact).
 {{% /callout %}}
 
-Learn more [about our research area and motivation](#about)
+Learn more about our [research](reserch/)
 
-Check out our [showcase research](research/)
+Check out our [projects showcase](project/)
 
