@@ -53,7 +53,7 @@ subtitle = ""
 
 We attempt to conduct thorough research with a holistic approach for understanding complex systems.
 
-We aim for simplifying our studies by considering the major mechanisms that control the processes in hand and to those that have practical meaning and interests.
+We aim for simplifying our studies by considering the major mechanisms that control the processes in hand, and to those that have practical meaning and interests.
 
 Thus, our general research path includes:
 - controlled experiments for producing unique data.
