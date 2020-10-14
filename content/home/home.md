@@ -8,6 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
+align = "center"
+
 title = "**Kamai** **Hydro**logy Lab"
 subtitle = "subsurface flow and transport in natural, urban, and agricultural systems"
 
