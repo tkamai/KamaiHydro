@@ -19,6 +19,7 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = "90%"
+  url = "https://sourcethemes.com/academic/docs/page-builder/"
   
 [[feature]]
   icon = "chart-line"
