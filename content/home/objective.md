@@ -50,6 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-- To specialize in the physical and hydrological aspects of the subsurface by studying water flow and related transport processes in the [critical zone](https://en.wikipedia.org/wiki/Earth%27s_critical_zone).
-- To develop mechanistic understanding for water related processes and construct predictive tools that can provide for better water use-efficiency.
+To specialize in the physical and hydrological aspects of the subsurface by studying water flow and related transport processes in the [critical zone](https://en.wikipedia.org/wiki/Earth%27s_critical_zone).
+
+To develop mechanistic understanding for water related processes and construct predictive tools that can provide for better water use-efficiency.
 
