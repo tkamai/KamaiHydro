@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Skills"
+title = ""
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -23,31 +23,19 @@ subtitle = ""
 [[feature]]
   icon = "semantic-scholar"
   icon_pack = "ai"
-  name = "[Statistics](https://sourcethemes.com/academic/docs/page-builder/)"
-  description = "[100%](https://sourcethemes.com/academic/docs/page-builder/)"  
+  name = "[Research](research/)"
+  description = "[read about it](research/)"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "ideas-repec"
+  icon_pack = "ai"
+  name = "[Projects](projects/)"
+  description = "[showcase](projects/)"
 
-# link = "https://sourcethemes.com/academic/docs/page-builder/"
-
-# Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+[[feature]]
+  icon = "doi"
+  icon_pack = "ai"
+  name = "[Pubblication](publications/)"
+  description = "[read papers](publications/)"
 
 +++
