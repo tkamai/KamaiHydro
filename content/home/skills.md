@@ -15,8 +15,8 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "social-group"
-  icon_pack = "custom"
+  icon = "arxiv"
+  icon_pack = "ai"
   name = "[Members](members/)"
   description = "[meet the team](members/)"
   
