@@ -49,18 +49,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Earth's natural resources are diminishing and [water scarcity](https://en.wikipedia.org/wiki/Water_scarcity) is becoming a pressing problem worldwide. Future projections are challenging for sustaining these resources, with the expected population expansion, the ongoing and growing demand for high quality water and food, and the change in climate. With sustainability being a far-reaching vision and the already-limited access to freshwater, with overuse and abuse of water resources, there is pressing need for tools to cope with these issues. As part, we suggest addressing those through innovative ideas and research that can provide for fundamental understanding of these complex systems, as the basis for developing practical tools to cope with them, thereby allowing their sustainability for future use.
+
+
 ## Foci
 
 We attempt to conduct thorough research with a holistic approach for understanding complex systems.
 
 We aim for simplifying our studies by considering the major mechanisms that control the processes in hand, and to those that have practical meaning and interests.
-
-Thus, our general research path includes:
-- controlled experiments for producing unique data.
-- model development.
-- validation of the model/s with data.
-- applications under field conditions.
-- future predictions - with optimizations 
 
 We strive to gain knowledge and find solutions for improving water use efficiency and sustainability of water resources. Our research is aimed towards predicting water storage and consumption in natural, urban, and agricultural systems by combining fundamental understanding and applicative tools for quantifying water state and flow, their relations to temperature and coupling with heat transfer and transport phenomena of different constituents.
 
@@ -70,9 +67,11 @@ Major research topics include:
 - irrigation and water in the Soil-Plant-Atmosphere Continuum (SPAC)
 - environmental interactions and impacts.
 
+
 ## Why?
 
 Lack of water is a common issue around the world. In this era, water scarcity is one of the utmost pressing issues for survival, as water demand exceeds supply in most of the world, and in many regions these conditions are extreme due to high consumption of water relative to the limited resources that are already exploited and diminishing. The increasing demand for food and the decreasing availability of soil and water resources are expected to continue with both, the expanding world’s population, and with higher temperatures and extreme weather events as result of climatic change. These changes are pressing the environment and intensifying water scarcity conditions that, in turn, require higher efficiency in water use and in food production for long-term sustainability in this changing world.
+
 
 ## Where?
 
