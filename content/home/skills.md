@@ -17,7 +17,6 @@ subtitle = ""
 [[feature]]
   icon = "user-friends"
   icon_pack = "fab"
-  link = "https://sourcethemes.com/academic/docs/page-builder/"
   name = "[Members](members/)"
   description = "[meet the team](members/)"
   
@@ -32,6 +31,8 @@ subtitle = ""
   icon_pack = "fas"
   name = "Photography"
   description = "10%"
+
+# link = "https://sourcethemes.com/academic/docs/page-builder/"
 
 # Uncomment to use emoji icons.
 # [[feature]]
