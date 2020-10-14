@@ -21,8 +21,8 @@ subtitle = ""
   description = "[meet the team](members/)"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+  icon = "semantic-scholar"
+  icon_pack = "ai"
   name = "[Statistics](https://sourcethemes.com/academic/docs/page-builder/)"
   description = "[100%](https://sourcethemes.com/academic/docs/page-builder/)"  
   
