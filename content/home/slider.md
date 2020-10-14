@@ -31,8 +31,8 @@ height = ""
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "come meet the people"
   cta_url = "members/"
-  cta_icon_pack = "emojy"
-  cta_icon = ":smiley:"
+  cta_icon_pack = "emoji"
+  cta_icon = ":smile:"
 
 [[item]]
   title = "Research"
