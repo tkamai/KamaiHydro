@@ -7,7 +7,7 @@ weight = 50  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = "2000"
+interval = "5000"
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -31,8 +31,8 @@ height = ""
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "come meet the people"
   cta_url = "members/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon_pack = "emojy"
+  cta_icon = ":smiley:"
 
 [[item]]
   title = "Research"
@@ -50,8 +50,8 @@ height = ""
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "read about it"
   cta_url = "research/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon_pack = "ai"
+  cta_icon = "semantic-scholar"
 
 [[item]]
   title = "Projects"
@@ -69,8 +69,8 @@ height = ""
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "learn about our activity"
   cta_url = "projects/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon_pack = "ai"
+  cta_icon = "ideas-repec"
 
 [[item]]
   title = "Publications"
