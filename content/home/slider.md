@@ -3,7 +3,7 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -31,8 +31,8 @@ height = ""
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "come meet the people"
   cta_url = "members/"
-  cta_icon_pack = "emoji"
-  cta_icon = ":smile:"
+  cta_icon_pack = "ai"
+  cta_icon = "arxiv"
 
 [[item]]
   title = "Research"
