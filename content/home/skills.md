@@ -25,7 +25,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "[100%](https://sourcethemes.com/academic/docs/page-builder/)"  
   
 [[feature]]
   icon = "camera-retro"
