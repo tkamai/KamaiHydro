@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Vision"
+title = "**Vision**"
 subtitle = ""
 
 [design]
@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-- To contribute fundamental knowledge and understanding of hydrologic processes and systems, and provide tools for enbling long-term sustainability of water resources.
-- To serve as proffesional expertes in Vadose Zone Hydrology and Soil Physics, to contribute and deliver innovative ideas and cutting-edge solutions in environmental and agricultural sciences.
+- To contribute fundamental knowledge and understanding of hydrologic processes and systems, and develp tools for enbling long-term sustainability of water resources.
+- To serve as proffesional expertes in Vadose Zone Hydrology and Soil Physics and to provide innovative ideas and cutting-edge solutions in environmental and agricultural sciences.
 

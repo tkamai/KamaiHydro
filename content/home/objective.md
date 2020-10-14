@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Objective"
+title = "**Objective**"
 subtitle = ""
 
 [design]
@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-- To specialize in the physical and hydrological aspects of the subsurface for studying water flow and related transport processes in the [critical zone](https://en.wikipedia.org/wiki/Earth%27s_critical_zone).
+- To specialize in the physical and hydrological aspects of the subsurface by studying water flow and related transport processes in the [critical zone](https://en.wikipedia.org/wiki/Earth%27s_critical_zone).
 - To develop mechanistic understanding for water related processes and construct predictive tools that can provide for better water use-efficiency.
 
