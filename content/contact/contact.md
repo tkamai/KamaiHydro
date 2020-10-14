@@ -22,4 +22,3 @@ autolink = true
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
 
-Tamir Kamai | Agriculture Research Organization (ARO)
