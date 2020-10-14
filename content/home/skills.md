@@ -22,9 +22,9 @@ subtitle = ""
   url = "https://sourcethemes.com/academic/docs/page-builder/"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "[chart-line](https://sourcethemes.com/academic/docs/page-builder/)"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "[Statistics](https://sourcethemes.com/academic/docs/page-builder/)"
   description = "[100%](https://sourcethemes.com/academic/docs/page-builder/)"  
   
 [[feature]]
